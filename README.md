@@ -28,6 +28,7 @@ As a team member, I was responsible for designing the **Main Menu UI**, focusing
 
 ## 👥 **Team Contributions**
 
+- **Ejaz Ahmed** – Team Lead — I **designed and developed the Main Menu** , focusing on clarity, usability, and a child-friendly experience..
 - **Gulam Hassanin Otho** – Developed the **gameplay mechanics, levels, missions**, and overall game flow.
 - **Unzilla** – Created the **PowerPoint presentation** and structured the **Game Design Document (GDD)**.
 - **Sudheer Ahmed** – Led the **game design**, focusing on overall aesthetic choices and user experience.
