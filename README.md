@@ -183,6 +183,14 @@ Abdul Bari lives in a peaceful Muslim neighborhood. Each day, he helps his famil
 
 ---
 
+### **Part 8: Game & Screen**
+- **Main Menu** –"screen-20260121-003036.mp4".
+- **Main Menu Home** –"<img width="1600" height="720" alt="Image" src="https://github.com/user-attachments/assets/20a45bda-91f8-497e-9509-90547552919b" />".
+- **About** –"<img width="1600" height="720" alt="Image" src="https://github.com/user-attachments/assets/58a19066-8624-48b0-aa7f-a04865dda4b0" />".
+- **Main Menu Home** –"screen-20260121-003036.mp4".
+- **Main Menu Home** –"screen-20260121-003036.mp4".
+---
+
 ## **Conclusion**
 
 **Abdul Bari’s Kindness Quest** is more than just a game—it's an engaging tool that helps teach children valuable Islamic lessons while encouraging acts of kindness. Through fun gameplay and positive moral messages, this game aims to inspire the next generation of kind, compassionate, and morally aware individuals.
