@@ -185,15 +185,15 @@ Abdul Bari lives in a peaceful Muslim neighborhood. Each day, he helps his famil
 
 ### **Part 8: Game & Screen**
 
-- **Main Menu Home** – "<img width="1600" height="720" alt="Image" src="https://github.com/user-attachments/assets/20a45bda-91f8-497e-9509-90547552919b" />".
+- **Main Menu Home** – <img width="1600" height="720" alt="Image" src="https://github.com/user-attachments/assets/20a45bda-91f8-497e-9509-90547552919b" />.
   
-- **About** – "<img width="1600" height="720" alt="Image" src="https://github.com/user-attachments/assets/58a19066-8624-48b0-aa7f-a04865dda4b0" />".
+- **About** – <img width="1600" height="720" alt="Image" src="https://github.com/user-attachments/assets/58a19066-8624-48b0-aa7f-a04865dda4b0" />.
   
-- **Level** – "<img width="1600" height="720" alt="Image" src="https://github.com/user-attachments/assets/ca7feef2-252c-4ccf-a0a0-b625556d9d68" />".
+- **Level** – <img width="1600" height="720" alt="Image" src="https://github.com/user-attachments/assets/ca7feef2-252c-4ccf-a0a0-b625556d9d68" />.
   
-- **Game Settings** – "<img width="1600" height="720" alt="Image" src="https://github.com/user-attachments/assets/8a3baf93-714b-41f8-8b16-d87f3a217afa" />".
+- **Game Settings** – <img width="1600" height="720" alt="Image" src="https://github.com/user-attachments/assets/8a3baf93-714b-41f8-8b16-d87f3a217afa" />.
 
-- **Game Play** – "<img width="1600" height="720" alt="Image" src="https://github.com/user-attachments/assets/bb2c6b54-1284-4073-a4e3-02bab4f5f8b3" />".
+- **Game Play** – <img width="1600" height="720" alt="Image" src="https://github.com/user-attachments/assets/bb2c6b54-1284-4073-a4e3-02bab4f5f8b3" />.
   
 ---
 
